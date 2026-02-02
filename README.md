@@ -27,5 +27,5 @@ Je suis étudiante en ingénierie et cybersécurité à l’Efrei, passionnée p
 ---
 
 ## Contact
-- LinkedIn : [Ton profil](https://www.linkedin.com/in/romane-m-b3a22a2b3)
+- LinkedIn : [Mon profil](https://www.linkedin.com/in/romane-m-b3a22a2b3)
 - Email : romane.morchain@gmail.com
