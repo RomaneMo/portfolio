@@ -1,6 +1,3 @@
-# portfolio
-Portfolio de projets et réalisations en cybersécurité et IT
-
 # Portfolio de Romane Morchain
 
 Bienvenue sur mon portfolio !  
